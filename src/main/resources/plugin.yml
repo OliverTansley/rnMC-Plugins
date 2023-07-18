@@ -1,0 +1,4 @@
+name: rnMC-Plugins
+version: '${project.version}'
+main: org.rnm.rnmcplugins.RnMC_Plugins
+api-version: 1.20
